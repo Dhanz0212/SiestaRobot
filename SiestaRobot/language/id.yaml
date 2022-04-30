@@ -9,8 +9,8 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
 
 # PM Text
 pm_start_text: |
-  *Hai sayang, {} ❤️*
-  ✪ Saya adalah robot manajemen tema anime [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
+  *Hai kontol, {} ❤️*
+  ✪ Gua adalah robot manajemen tapi gak wibu [✨](https://telegra.ph/file/e4f5be70eb15fccb593fa.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Waktu Operasi Server :* `{}`
@@ -20,12 +20,12 @@ pm_start_text: |
   ✪ Tekan /help untuk melihat perintah saya yang tersedia.
    
 group_start_text: |
-  *👋🏻 Hai Sayang, aku Robot Siesta!* 
+  *👋🏻 Hai Kontol, Gua Robot Niskala!* 
   
   *Mulai aktif sejak :* `{}`
 
 pm_about_text: |
-  ✺ Hai Sayang saya *Siesta Robot*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ✺
+  ✺ Hai Kontol gua *Niskala Robot*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ✺
 
   ✪ Saya dapat membatasi pengguna.
   ✪ Saya dapat menyapa pengguna dengan pesan selamat datang yang dapat disesuaikan dan bahkan menetapkan aturan grup.
@@ -39,7 +39,7 @@ pm_about_text: |
 pm_about_admin_text: |
   *✺ Ayo buat grupmu sedikit efektif sekarang ✺*
 
-  Selamat, Robot Siesta sekarang siap untuk mengelola grup Anda.
+  Selamat, Robot Niskala sekarang siap untuk mengelola grup Anda.
 
   *Alat Admin*
   Alat Admin Dasar membantu Anda melindungi dan memperkuat grup Anda.
@@ -54,13 +54,13 @@ pm_about_notes_text: |
   ✪ Anda dapat menyimpan pesan/media/audio atau apa pun sebagai catatan untuk mendapatkan catatan cukup gunakan # di awal kata"
   ✪ Anda juga dapat mengatur tombol untuk catatan dan filter (lihat menu bantuan)
 pm_about_support_text: |
-  *✺ Obrolan dukungan Robot Siesta ✺*
+  *✺ Obrolan dukungan Robot Niskala ✺*
 
-  Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Siesta.
+  Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Niskala.
 pm_about_credit_text: |
-  *✺ Credits for Siesta ✺*
+  *✺ Credits for Niskala ✺*
 
-  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Siesta
+  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Niskala
 pm_help_text: |
   *✺ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ✺*
 pm_help_module_text: "Berikut adalah bantuan untuk modul *{}* :\n\n"
@@ -82,14 +82,14 @@ group_settings_text: "Klik di sini untuk mendapatkan pengaturan obrolan ini, ser
 group_settings_button: "Pengaturan"
 
 # PM Button
-add_bot_to_group_button: "♕ Tambahkan Saya Ke Grup Anda ♕"
+add_bot_to_group_button: " Tambahin Gua Ke Grup Lu "
 support_chat_link_button: "Mendukung"
 updates_channel_link_button: "Pembaruan"
 notes_button: "Catatan"
 source_button: "Kode sumber"
 help_button: "Mendapatkan bantuan"
 back_button: "Kembali"
-about_button: "Tentang Siesta Robot"
+about_button: "Tentang Niskala Robot"
 inline_button: "Mencoba inline!​​"
 
 # MODULES
@@ -184,7 +184,7 @@ antispam_help: |
 
     Ini juga mengintegrasikan @Spamwatch API untuk menghapus Spammer sebanyak mungkin dari ruang obrolan Anda!
     *Apa itu SpamWatch?*
-    SpamWatch memiliki daftar larangan spambot, troll, spammer bitcoin, dan karakter jahat yang terus diperbarui secara konstan[.](https://telegra.ph/file/f584b643c6f4be0b1de53.jpg)
+    SpamWatch memiliki daftar larangan spambot, troll, spammer bitcoin, dan karakter jahat yang terus diperbarui secara konstan[.](https://telegra.ph/file/e4f5be70eb15fccb593fa.jpg)
     Terus membantu melarang spammer dari grup Anda secara otomatis Jadi, Anda tidak perlu khawatir tentang spammer menyerbu grup Anda.
     *Catatan:* Pengguna dapat mengajukan banding atas larangan spamwatch di @SpamwatchSupport
 approve_help: |
@@ -665,7 +665,7 @@ search_help: |
     ❂ /imdb <Nama film>*:* Dapatkan info lengkap tentang film dengan imdb.com
     ❂ Siesta <query>*:* Siesta menjawab pertanyaan
 
-    💡 Contoh : `Siesta di mana Jepang?`
+    💡 Contoh : `Niskala di mana Jepang?`
 stickers_help: |
     ──「 Stiker 」──
 
