@@ -31,17 +31,17 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "5363549359:AAFUdFU61S53SAu7N3ZYakO4KAHrjSuJd-U"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "11969958"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "91af16e64c9ee16499e158594b44e35b"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -51,13 +51,13 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "945137470"
+         "value": "5169252959"
      },
 
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
          "required": true,
-         "value": "" 
+         "value": "1BVtsOJEBuxIRkgPTtBaZs2Gz_8vCnfgMYVv-lkIkgptzNCi4CksEx3u0MPeSrC8nZDwxlhlpN00JvrRbu7MGBYjy-0addGd-pK9yjYwoq0uvxYMmgAU5H2-Sd5LRWEqvc3IxEkOJIeJDjcCVSJrpMcGN2zPa3keSbtHltTNbz6xn6VOugZWPaNHTd5t4e3LFyFLyEYXJPW8Nii3OZpVZPP3XXhg2aXcXfALagu4jkLfOzRbR1WU4uuM5aUgoyW_05bvunF-nEpa0_w0dolfTOb3EMANFx7FWepbzeB-n3sZyifd5iJqCtjVasA-DFoEvHHjqXsAQYA0z8Ac7RlWZe6OwKxtBjfw=" 
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -69,27 +69,27 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "siestaxbot"
+         "value": "niskalaxrobot"
       },
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": ""
+         "value": "5363549359"
       },
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "saint_foire"
+         "value": "Ngapain_Ngetag"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "machinaxsupport"
+         "value": "Diskras"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://anya234:anya234@cluster0.up1ea.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "IBM_WATSON_CRED_URL": {
          "description": "This is required for the speech to text module. Get your USERNAME from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
@@ -102,12 +102,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001237968047"
+         "value": "-1001735372803"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001180007354"
+         "value": "-1001735372803"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -129,7 +129,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": ""
+         "value": "5169252959"
      },
         "ARQ_API": {
             "description": "Get this from @ARQRobot.",
@@ -148,22 +148,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": ""
+         "value": "5169252959"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": ""
+         "value": "5169252959"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": ""
+         "value": "5169252959"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": ""
+         "value": "5169252959"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
